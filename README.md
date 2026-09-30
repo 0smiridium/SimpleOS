@@ -1,2 +1,2 @@
 # SimpleOS
-A simple COSMOS based OS. Only tested in qemu x64
+A simple COSMOS based OS. All files are stored in RAM, no permanence. Tiny networking stack. Calculator and More!
